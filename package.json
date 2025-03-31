@@ -1,4 +1,3 @@
-Package.json file in github
 {
     "name": "flowise",
     "version": "2.2.7-patch.1",
@@ -120,3 +119,4 @@ Package.json file in github
         ]
     }
 }
+
